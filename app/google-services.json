@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "405868453381",
+    "firebase_url": "https://academic-assistant-07-default-rtdb.firebaseio.com",
+    "project_id": "academic-assistant-07",
+    "storage_bucket": "academic-assistant-07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405868453381:android:62cb56c9129c982ceec66c",
+        "android_client_info": {
+          "package_name": "com.tawhid.academicassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405868453381-g9rkmenmuar7jepftg5m3m47i3462fcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApO2XbxAjdsHLaTbWrFb_tf9yEVrbIRRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405868453381-g9rkmenmuar7jepftg5m3m47i3462fcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405868453381:android:9b866e554f582499eec66c",
+        "android_client_info": {
+          "package_name": "com.tawhid.useracademicassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405868453381-g9rkmenmuar7jepftg5m3m47i3462fcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApO2XbxAjdsHLaTbWrFb_tf9yEVrbIRRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405868453381-g9rkmenmuar7jepftg5m3m47i3462fcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
